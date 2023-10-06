@@ -1,7 +1,7 @@
 import requests
 
 # Substitua 'SUA_CHAVE_DE_API' pela chave de API que você obteve no Console do Google Cloud.
-API_KEY = 'AIzaSyDXoKIjV7G4bbPbjMohOcVIGNYht6fj0QM'
+API_KEY = ''
 
 # Defina as coordenadas (latitude e longitude) das duas localizações de origem e destino.
 #origem = '-10.9481197,-37.0740589'  # Exemplo: San Francisco, CA
